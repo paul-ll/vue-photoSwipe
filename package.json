@@ -1,5 +1,5 @@
 {
-  "name": "vue-photoswipe",
+  "name": "vue-photoSwipe",
   "version": "1.0.3",
   "description": "PhotoSwipe plugin for Vue.js 2.0",
   "main": "./src/index.js",
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ymyang/vue-photoswipe.git"
+    "url": "git+https://github.com/paul-ll/vue-photoSwipe.git"
   },
   "keywords": [
     "PhotoSwipe",
     "Vue"
   ],
-  "author": "ymyang",
+  "author": "lvl",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ymyang/vue-photoswipe/issues"
+    "url": "https://github.com/paul-ll/vue-photoSwipe/issues"
   },
-  "homepage": "https://github.com/ymyang/vue-photoswipe#readme",
+  "homepage": "https://github.com/paul-ll/vue-photoSwipe#readme",
   "dependencies": {
     "photoswipe": "^4.1.1"
   },
